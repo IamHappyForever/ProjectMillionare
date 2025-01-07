@@ -1,5 +1,3 @@
-include("autorun/brohud.lua")
-
 if SERVER then
     util.AddNetworkString("UpdateHungerThirst")
 
